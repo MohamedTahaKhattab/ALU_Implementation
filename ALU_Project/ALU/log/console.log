@@ -1,0 +1,77 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Error: The contents of entity 'alu.fa' instantiated in architecture '\Add_sub_model\:\add_sub\' differ from the contents available during the compilation of this architecture.
+# ELBREAD: Error: Elaboration process completed with errors.
+# Design: Error: Elaboration failed
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# ELBREAD: Elaboration process.
+# ELBREAD: Error: The contents of entity 'alu.fa' instantiated in architecture '\Add_sub_model\:\add_sub\' differ from the contents available during the compilation of this architecture.
+# ELBREAD: Error: Elaboration process completed with errors.
+# Design: Error: Elaboration failed
+# ELBREAD: Elaboration process.
+# ULM: Warning: ULM_0021 Architecture "parta_modle" of entity "alu.parta" is not up-to-date. Please recompile file "C:\My_Designs\MOHAMED_TAHA_SALAH_192000280\ALU/src/PartA.vhd".
+# ELBREAD: Error: Architecture 'parta_modle' of entity 'PartA' not found in library 'alu'.
+# ELBREAD: Error: Elaboration process completed with errors.
+# Design: Error: Elaboration failed
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# ELBREAD: Elaboration process.
+# ELBREAD: Error: The contents of entity 'alu.fa' instantiated in architecture '\Add_sub_model\:\add_sub\' differ from the contents available during the compilation of this architecture.
+# ELBREAD: Error: Elaboration process completed with errors.
+# Design: Error: Elaboration failed
+acom -O3 -e 100 -work ALU -2002  $dsn/src/PartA.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/MOHAMED_TAHA_SALAH_192000280/ALU/src/PartA.vhd
+# Compile Entity "PartA"
+# Compile Architecture "PartA" of Entity "PartA"
+# Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]
+# ELBREAD: Elaboration process.
+# ELBREAD: Error: The contents of entity 'alu.fa' instantiated in architecture '\Add_sub_model\:\add_sub\' differ from the contents available during the compilation of this architecture.
+# ELBREAD: Error: Elaboration process completed with errors.
+# Design: Error: Elaboration failed
+# ELBREAD: Elaboration process.
+# ELBREAD: Error: The contents of entity 'alu.fa' instantiated in architecture '\Add_sub_model\:\add_sub\' differ from the contents available during the compilation of this architecture.
+# ELBREAD: Error: Elaboration process completed with errors.
+# Design: Error: Elaboration failed
+acom -O3 -e 100 -work ALU -2002  $dsn/src/PartA.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/MOHAMED_TAHA_SALAH_192000280/ALU/src/PartA.vhd
+# Compile Entity "PartA"
+# Error: COMP96_0018: PartA.vhd : (44, 23): Identifier expected.
+# Error: COMP96_0016: PartA.vhd : (44, 24): Design unit declaration expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work ALU -2002  $dsn/src/PartA.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/MOHAMED_TAHA_SALAH_192000280/ALU/src/PartA.vhd
+# Compile Entity "PartA"
+# Error: COMP96_0018: PartA.vhd : (44, 14): Identifier expected.
+# Error: COMP96_0016: PartA.vhd : (44, 15): Design unit declaration expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work ALU -2002  $dsn/src/PartC.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/MOHAMED_TAHA_SALAH_192000280/ALU/src/PartC.vhd
+# Compile Entity "PartC"
+# Compile Architecture "PartC" of Entity "PartC"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work ALU -2002  $dsn/src/PartA.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/My_Designs/MOHAMED_TAHA_SALAH_192000280/ALU/src/PartA.vhd
+# Compile Entity "PartA"
+# Compile Architecture "\PartA_model\" of Entity "PartA"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+# ELBREAD: Elaboration process.
+# ELBREAD: Error: The contents of entity 'alu.fa' instantiated in architecture '\Add_sub_model\:\add_sub\' differ from the contents available during the compilation of this architecture.
+# ELBREAD: Error: Elaboration process completed with errors.
+# Design: Error: Elaboration failed
+# ELBREAD: Elaboration process.
+# ELBREAD: Error: The contents of entity 'alu.fa' instantiated in architecture '\Add_sub_model\:\add_sub\' differ from the contents available during the compilation of this architecture.
+# ELBREAD: Error: Elaboration process completed with errors.
+# Design: Error: Elaboration failed
+# ELBREAD: Elaboration process.
+# ELBREAD: Error: The contents of entity 'alu.fa' instantiated in architecture '\Add_sub_model\:\add_sub\' differ from the contents available during the compilation of this architecture.
+# ELBREAD: Error: Elaboration process completed with errors.
+# Design: Error: Elaboration failed

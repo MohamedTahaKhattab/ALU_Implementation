@@ -1,0 +1,77 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=ALU
+[Library]
+ALU=.\ALU\ALU.lib
+[$LibMap$]
+ALU=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[SpecTracer]
+WindowVisible=0
+[HierarchyViewer]
+HierarchyInformation=fa|FA|0 partb|PartB_model|0 partc|PartC|0 partd|PartD|0
+ShowHide=ShowTopLevel
+Selected=
+[Files.Data]
+.\src\FA.vhd=VHDL Source Code
+.\src\nbitadder.vhd=VHDL Source Code
+.\src\PartA.vhd=VHDL Source Code
+.\src\PartB.vhd=VHDL Source Code
+.\src\PartC.vhd=VHDL Source Code
+.\src\PartD.vhd=VHDL Source Code
+.\src\untitled.asdb=Accelerated Waveform File
+.\src\untitled.awc=Accelerated Waveform Configuration
+.\src\ALU.vhd=VHDL Source Code
+.\src\Main Memory.vhd=VHDL Source Code
+.\src\Register.vhd=VHDL Source Code
+.\src\Control_U.vhd=VHDL Source Code
+.\src\PC.vhd=VHDL Source Code
+[Files]
+/FA.vhd=-1
+/nbitadder.vhd=-1
+/PartA.vhd=-1
+/PartB.vhd=-1
+/PartC.vhd=-1
+/PartD.vhd=-1
+/untitled.asdb=-1
+/untitled.awc=-1
+/ALU.vhd=-1
+/Main Memory.vhd=-1
+/Register.vhd=-1
+/Control_U.vhd=-1
+/PC.vhd=-1
+[Folders]
+Name0=Event Lists
+Directory0=C:\My_Designs\MOHAMED_TAHA_SALAH_192000280\ALU\
+Extension0=lst
+Name1=Logs
+Directory1=C:\My_Designs\MOHAMED_TAHA_SALAH_192000280\ALU\
+Extension1=log;htm;xml;txt
+Name2=Waveforms
+Directory2=C:\My_Designs\MOHAMED_TAHA_SALAH_192000280\ALU\
+Extension2=asdb;awc;asdbc;asdbe
+Name3=Makefiles
+Directory3=C:\My_Designs\MOHAMED_TAHA_SALAH_192000280\ALU\
+Extension3=mak
+Name4=Memory
+Directory4=C:\My_Designs\MOHAMED_TAHA_SALAH_192000280\ALU\
+Extension4=mem;mif;hex
+Name5=Dll Libraries
+Directory5=C:\My_Designs\MOHAMED_TAHA_SALAH_192000280\ALU\
+Extension5=dll
+Name6=PDF
+Directory6=C:\My_Designs\MOHAMED_TAHA_SALAH_192000280\ALU\
+Extension6=pdf
+Name7=HTML
+Directory7=C:\My_Designs\MOHAMED_TAHA_SALAH_192000280\ALU\
+Extension7=htm;html

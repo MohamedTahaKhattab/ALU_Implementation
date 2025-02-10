@@ -1,0 +1,61 @@
+<config>
+    <version>
+        3.1
+    </version>
+    <comment>
+    </comment>
+    <databases>
+        <database id="">*virtual*</database>
+        <database id="744ca1da9d71f2f23862eccd94160000">untitled.asdb</database>
+    </databases>
+    <signallists>
+        <signallist id="0">
+        <signal>/ALU/CIN</signal>
+        <signal>/ALU/COUT</signal>
+        <signal>/ALU/A</signal>
+        <signal>/ALU/B</signal>
+        <signal>/ALU/S</signal>
+        <signal>/ALU/F</signal>
+        <signal>/ALU/Negative</signal>
+        <signal>/ALU/Zero</signal>
+        <signal>/ALU/Carry</signal>
+        <signal>/ALU/s1</signal>
+        <signal>/ALU/s2</signal>
+        <signal>/ALU/o</signal>
+        <signal>/ALU/l</signal>
+        <signal>/ALU/c</signal>
+        <signal>/ALU/d</signal>
+        <signal>/ALU/e</signal>
+        <signal>/ALU/g</signal>
+        <signal>/ALU/h</signal>
+        <signal>/ALU/n</signal>
+        </signallist>
+    </signallists>
+    <timebases>
+        <timebase id="0">
+            <time start_time="108381" end_time="210181" />
+        </timebase>
+    </timebases>
+    <prefbases>
+        <prefbase id="0" >
+        </prefbase>
+    </prefbases>
+    <bookmarkbases>
+        <bookmarks id="0">
+        </bookmarks>
+    </bookmarkbases>
+    <cursorbases>
+        <cursors id="0">
+            <cursor value="200000" label="Cursor 1" locked="0" />
+        </cursors>
+    </cursorbases>
+    <measurementbases>
+    </measurementbases>
+    <commentbases>
+        <comments id="0">
+        </comments>
+    </commentbases>
+    <views>
+        <view signallist="0" propertybase="0" prefbase="0" type="1" bookmarks="0" cursors="0" measurements="-1" comments="-1" />
+    </views>
+</config>

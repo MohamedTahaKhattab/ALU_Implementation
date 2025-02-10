@@ -1,0 +1,1 @@
+-w -erf C:/My_Designs/MOHAMED_TAHA_SALAH_192000280/ALU/compile/ALU.erf -d C:/My_Designs/MOHAMED_TAHA_SALAH_192000280/ALU/compile -s C:/My_Designs/MOHAMED_TAHA_SALAH_192000280/library.cfg -j C:/My_Designs/MOHAMED_TAHA_SALAH_192000280/ALU/projlib.cfg -work ALU -O3 -e 100 -work ALU -2002 C:/My_Designs/MOHAMED_TAHA_SALAH_192000280/ALU/src/PartA.vhd 

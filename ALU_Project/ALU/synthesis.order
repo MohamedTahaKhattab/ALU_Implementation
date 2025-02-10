@@ -1,0 +1,11 @@
+i<>.\src\PartB.vhd
+i<>.\src\FA.vhd
+i<>.\src\adder.vhd
+i<>.\src\PartA.vhd
+i<>.\src\PartC.vhd
+i<>.\src\PartD.vhd
+i<>.\src\ALU.vhd
+i<>.\src\Main Memory.vhd
+i<>.\src\Register.vhd
+i<>.\src\Control_U.vhd
+i<>.\src\PC.vhd
